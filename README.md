@@ -1,4 +1,3 @@
-
 <p align="center">
 <img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/ytpro.gif' height=150  >
 </p>
@@ -13,6 +12,7 @@
 
 </div>
 
+### Become a Sponsor 
 ---
 > [!TIP]
 > If you like this project, consider [sponsoring](https://github.com/sponsors/prateek-chaubey) to support the author 🌸
@@ -25,7 +25,8 @@
 #### Screenshots
 | | | |
 |:--:|:--:|:--:| 
-|<img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/com.google.android.youtube.pro.jpg'  > | <img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/01102.png'  > |<img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/01101.png'  > |
+|<img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/screen3.jpg'  > | <img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/screen2.jpg'  > |<img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/screen5.jpg'  > | 
+|<img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/screen6.jpg'  > | <img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/screen4.jpg'  > |<img src='https://raw.githubusercontent.com/prateek-chaubey/YTPro/main/.github/img/screen1.jpg'  > |
 
 
 ## Features
@@ -33,12 +34,14 @@
    * Summarise Vidoes
    * Customisable prompts and models
  * Video Downloader
- * Shorts Downloader 
+ * Shorts Downloader
+ * In-built Video and Audio Muxer
  * Thumbnails Downloader
- * Captions Downloader 
+ * Captions Downloader
  * Ads Blocker
  * Minimize Video
  * Picture in Picture Mode
+ * Gesture control for Volume and Brightness 
  * Shows Number of Dislikes
  * Background Audio Player
  * Custom Heart feature to save videos without logging into your account
@@ -46,7 +49,9 @@
  * Skip Sponsers
  * Force Zoom
  * Hide Shorts
- * APK size under 50KB
+ * Upto 10x video speed 
+ * Minimal APK size
+ * Adaptive UI icons
  * Minimal
  * Almost 0 Internal Dependencies
  * Auto Updation of App
@@ -59,9 +64,9 @@ The available variables for gemini prompt are
 * `{videoId}` : Video Id of the video
 
 ## ToDo
- * Add basic features to the video player
  * Enhance Audio
- * Merging Adaptive Formats
+ * Skip Silence 
+ 
 
 ### Credits
  * [Sponsor Block](https://github.com/ajayyy/SponsorBlock)
@@ -75,4 +80,4 @@ The available variables for gemini prompt are
 
 
 ## Disclaimer 
-This is an educational project trying to showcase the javascript injection into a webview for enhancing the productivity.
+This is an educational project aimed at showcasing javascript injection into a webview to enhance productivity.
